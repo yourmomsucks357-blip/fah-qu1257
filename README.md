@@ -11,4 +11,4 @@ license: apache-2.0
 ---
 
 # FAH-QU
-Qwen2.5-72B Abliterated — uncensored chat interface.
+Qwen3.6-35B Claude 4.7 Opus Abliterated — vision + text, uncensored.
